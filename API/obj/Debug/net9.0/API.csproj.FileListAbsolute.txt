@@ -6,8 +6,6 @@ C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\bin\Debug\net9.0\API.d
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\bin\Debug\net9.0\API.runtimeconfig.json
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\bin\Debug\net9.0\API.dll
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\bin\Debug\net9.0\API.pdb
-C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\bin\Debug\net9.0\Microsoft.OpenApi.dll
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\bin\Debug\net9.0\Application.dll
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\bin\Debug\net9.0\Domain.dll
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\bin\Debug\net9.0\Persistence.dll
@@ -19,7 +17,6 @@ C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\obj\Debug\net9.0\API.G
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\obj\Debug\net9.0\API.AssemblyInfo.cs
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
-C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\obj\Debug\net9.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\obj\Debug\net9.0\API.sourcelink.json
 C:\Users\phelp\OneDrive\Desktop\ReactivitiesMyVersion\API\obj\Debug\net9.0\scopedcss\bundle\API.styles.css
